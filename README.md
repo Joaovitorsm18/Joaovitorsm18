@@ -19,67 +19,36 @@ Tenho experiência sólida com **Django REST Framework, APIs bancárias, orquest
 
 ---
 
-## 🚀 Projetos em Destaque
 
-### 💼 ADM — Sistema Interno de Gestão Condominial
+## 💼 Projetos em Destaque
 
-Plataforma full-stack desenvolvida com **Django + DRF + React**, voltada à **automação de rateios de consumo e logística de limpeza condominial**.
+### 🏢 [Sistema ADM - Gestão Condominial](https://github.com/Joaovitorsm18/adm-api)
+Plataforma corporativa que **automatiza rateios e logística**
+- Redução de **95%** em erros de cálculo
+- Otimização de **60%** em rotas de limpeza
+- Processamento de **40+ condomínios** automaticamente
 
-**Principais recursos:**
-- **Consumo & Rateio:** cálculo automático de contas, sincronização com Superlógica e geração de relatórios PDF.  
-- **Limpeza & Logística:** agendamento semanal interativo, otimização de rotas (Google Maps API) e controle de execução.  
-- **Infraestrutura:** PostgreSQL, uWSGI, Nginx e deploy em Oracle Cloud.  
-- **Segurança:** autenticação JWT, módulos isolados e backups automatizados.
+### 🏦 [Conciliação Bancária Automática](https://github.com/Joaovitorsm18/automacao-superlogica)
+Integração **Banco Inter ↔ Superlógica** com conciliação automática
+- Autenticação mTLS + OAuth2
+- Execução agendada + relatórios automáticos
+- Ambiente corporativo real
 
-**Resultados:**
-- Redução de erros de rateio em **≈95%**  
-- Otimização de deslocamentos em **≈60%**  
-- Tempo de cálculo por condomínio reduzido de **~30min para ~5min** (mais de 40 condomínios processados automaticamente)
-
-📦 *Solução corporativa que substitui planilhas por uma operação 100% automatizada e centralizada.*
-
----
-
-### 💧 **Copasa Invoice Downloader**
-Sistema de **automação massiva** com **Python + Node.js + Playwright** para download de faturas da Copasa.
-- Autenticação automática com token via e-mail (Gmail IMAP)
-- Processamento em lote e retry inteligente
-- Organização de PDFs por condomínio e data
-🔐 *Automação segura e resiliente de processos administrativos.*
+### 🔄 [Automações Corporativas]()
+- **Download massivo de faturas** (Copasa + Gmail IMAP)
+- **Sincronização financeira** (APIs bancárias + Superlógica)  
+- **Sistema de vendas** para laticínio (Django REST)
 
 ---
 
-### 🧾 **Automação de Despesas Bancárias (Superlógica)**
-Ferramenta em **Python** para automatizar o download de relatórios financeiros e salvar no **Google Drive**.
-- Integração com API Superlógica
-- Nomeação e estrutura de pastas padronizadas
-- Processamento em lote e logs de status
-📊 *Elimina tarefas manuais e mantém relatórios sempre atualizados.*
+## 📊 Impacto Gerado
 
----
-
-### 🏦 **Conciliação Bancária Automática (Banco Inter)**
-Sistema completo de integração entre **Banco Inter e Superlógica**, com conciliação e liquidação automáticas.
-- Autenticação mTLS + OAuth2  
-- Conciliação e liquidação de despesas via API  
-- Execuções agendadas (30min/dia) e envio automático de relatórios  
-- Estrutura modular por condomínio  
-⚙️ *Automação financeira avançada em ambiente corporativo real.*
-
----
-
-### 🧀 **API de Vendas para Laticínio**
-API RESTful desenvolvida com **Django REST Framework** para controle de vendas e trocas.
-- Autenticação JWT e CRUD completo (clientes, produtos, vendas, despesas)
-- Suporte a recibos com upload de imagens
-- Relatórios filtráveis por data, cliente e produto  
-💰 *Backend robusto para gestão de operações comerciais.*
-
----
-
-## 📈 O que me motiva
-Gosto de transformar processos manuais em **sistemas automatizados e integrados**, que reduzem tempo, erro humano e aumentam a eficiência das empresas.  
-Tenho um perfil **analítico e de engenharia**, focado em **resolver problemas reais com código limpo e escalável**.
+| Métrica | Resultado |
+|---------|-----------|
+| Redução de tarefas manuais | ~80% |
+| Processos automatizados | 10+ sistemas |
+| Tempo economizado | 200+ h/mês |
+| Sistemas em produção | 4+ |
 
 ---
 
@@ -91,5 +60,5 @@ Tenho um perfil **analítico e de engenharia**, focado em **resolver problemas r
 
 ---
 
-### 💡 “Automação é transformar esforço em eficiência — e código em resultado.”
+> **"Transformo processos manuais em sistemas automatizados que geram eficiência real para empresas."**
 
