@@ -1,7 +1,7 @@
 # 👨‍💻 João Vítor — Desenvolvedor Back-end | Automação & Integrações
 
 Sou um desenvolvedor **Back-end especializado em Python**, com foco em **automação de processos corporativos, integrações financeiras e sistemas administrativos**.  
-Tenho experiência sólida com **Django REST Framework, APIs bancárias, orquestração de rotinas** e **automação de fluxos empresariais** que conectam múltiplas plataformas e geram impacto real em produtividade.
+Experiência com **Django REST Framework, APIs bancárias, orquestração de rotinas** e **automação de fluxos empresariais** que aumentam produtividade e reduzem custos operacionais.
 
 ---
 
