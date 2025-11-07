@@ -34,7 +34,7 @@ Plataforma full-stack desenvolvida com **Django + DRF + React**, voltada à **au
 **Resultados:**
 - Redução de erros de rateio em **≈95%**  
 - Otimização de deslocamentos em **≈60%**  
-- Tempo de cálculo mensal reduzido de **30min → 5min**
+- Tempo de cálculo por condomínio reduzido de **~30min para ~5min** (mais de 40 condomínios processados automaticamente)
 
 📦 *Solução corporativa que substitui planilhas por uma operação 100% automatizada e centralizada.*
 
