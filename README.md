@@ -21,13 +21,22 @@ Tenho experiência sólida com **Django REST Framework, APIs bancárias, orquest
 
 ## 🚀 Projetos em Destaque
 
-### 💼 **ADM — Sistema Interno de Gestão Condominial**
-Plataforma completa desenvolvida com **Django + DRF + React**, integrando:
-- controle de consumo, rateio de despesas e logística de leitura,
-- autenticação JWT, dashboards e relatórios gerenciais,
-- integrações com APIs externas (Google Maps, Copasa, Superlógica),
-- arquitetura escalável com **PostgreSQL**, **Nginx**, e **uWSGI**.  
-📦 *Solução corporativa para gestão condominial de múltiplas unidades.*
+### 💼 ADM — Sistema Interno de Gestão Condominial
+
+Plataforma full-stack desenvolvida com **Django + DRF + React**, voltada à **automação de rateios de consumo e logística de limpeza condominial**.
+
+**Principais recursos:**
+- **Consumo & Rateio:** cálculo automático de contas, sincronização com Superlógica e geração de relatórios PDF.  
+- **Limpeza & Logística:** agendamento semanal interativo, otimização de rotas (Google Maps API) e controle de execução.  
+- **Infraestrutura:** PostgreSQL, uWSGI, Nginx e deploy em Oracle Cloud.  
+- **Segurança:** autenticação JWT, módulos isolados e backups automatizados.
+
+**Resultados:**
+- Redução de erros de rateio em **≈95%**  
+- Otimização de deslocamentos em **≈60%**  
+- Tempo de cálculo mensal reduzido de **30min → 5min**
+
+📦 *Solução corporativa que substitui planilhas por uma operação 100% automatizada e centralizada.*
 
 ---
 
