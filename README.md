@@ -26,7 +26,8 @@ Tenho experiência sólida com **Django REST Framework, APIs bancárias, orquest
 Plataforma corporativa que **automatiza rateios e logística**
 - Redução de **95%** em erros de cálculo
 - Otimização de **60%** em rotas de limpeza
-- Processamento de **40+ condomínios** automaticamente
+- Processamento de cálculos **40+ condomínios** automaticamente
+- Logística de **170+ condomínios** automaticamente
 
 ### 🏦 [Conciliação Bancária Automática](https://github.com/Joaovitorsm18/automacao-superlogica)
 Integração **Banco Inter ↔ Superlógica** com conciliação automática
