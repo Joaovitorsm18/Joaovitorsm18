@@ -57,7 +57,7 @@ Integração **Banco Inter ↔ Superlógica** com conciliação automática
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-sm/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joaovitorsm18)
-📧 **Email:** joaovitorsm18@gmail.com
+📧 **Email:** jaovit81@gmail.com
 
 ---
 
